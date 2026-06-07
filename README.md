@@ -13,7 +13,11 @@ Passionate about transforming ideas into high-performance applications that deli
 * Im not concerned about AI replacing my role
 * MVP, GENZ, BEAST
 * Code, basketball n 76ers
+
 ---
+
+![](https://komarev.com/ghpvc/?username=bsunduibazrr&style=for-the-badge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bsunduibazrr&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  Tech Stack
 
