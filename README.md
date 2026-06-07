@@ -47,23 +47,19 @@ Passionate about transforming ideas into high-performance applications that deli
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zolb646\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolb646\&layout=compact\&theme=tokyonight)
-
----
-
 ## Featured Projects
 
-### ⏱ Werun Stopwatch
+### Werun Stopwatch
 
-......
+https://werun-taupe.vercel.app
 
-###  Portfolio Website
+### LMS 
 
-.....
+https://educore-1zs.pages.dev
+
+### PawPaw
+
+https://teamproject-rosy.vercel.app
 
 ---
 
