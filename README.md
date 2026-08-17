@@ -61,13 +61,13 @@ Passionate about transforming ideas into high-performance applications that deli
 
 ## Featured Projects
 
-### Werun Stopwatch
+### Werun Manage System
 
-https://werun-taupe.vercel.app
+https://manage.werun.mn
 
-### LMS 
+### Have Fun W This Shi
 
-https://educore-1zs.pages.dev
+https://naruto-powerr.vercel.app
 
 ### PawPaw
 
