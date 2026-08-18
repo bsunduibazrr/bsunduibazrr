@@ -74,6 +74,21 @@ https://naruto-powerr.vercel.app
 https://teamproject-rosy.vercel.app
 
 ---
+### Github Analytics
+
+<h2 align="center">GitHub Analytics</h2>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsunduibazrr&theme=tokyonight&border_radius=5" alt="bsunduibazrr's GitHub Streak" />
+</p>
+
+<!-- Contribution Graph (Таны харсан график) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsunduibazrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="bsunduibazrr" />
+</p>
+
+---
 
 ## Find Me Online
 
