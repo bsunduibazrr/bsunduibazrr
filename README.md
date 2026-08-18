@@ -78,10 +78,9 @@ https://teamproject-rosy.vercel.app
 
 <h2 align="center">GitHub Analytics</h2>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsunduibazrr&theme=tokyonight&border_radius=5" alt="bsunduibazrr's GitHub Streak" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bsunduibazrr&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsunduibazrr&show_icons=true&theme=tokyonight)
 
 <!-- Contribution Graph (Таны харсан график) -->
 <p align="center">
