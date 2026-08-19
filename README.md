@@ -13,13 +13,14 @@ that deliver real business value.
 
 ## About Me
 
-- 18yo boy passionate about coding
-- Choosing Software Engineering is a decision I've never regretted
-- I'm not concerned about AI replacing my role
+- 18yo boy who passionate about coding
+- Freshman at MUST
+- not concerned about AI replacing my role
 - MVP • GENZ • BEAST
-- Code, basketball n 76ers 🏀
-- Currently building things that probably didn't need to exist
-- I love Olivia Rodrigo 🎧
+- code, basketball n 76ers 
+- professional bug creator
+- CEO of "trust me bro"
+- full-time coder, part-time human
 
 ---
 
@@ -70,23 +71,17 @@ that deliver real business value.
 
 ### Werun Manage System
 
-> Internal management platform for the WeRun ecosystem.
-
 🔗 https://manage.werun.mn
 
 ---
 
 ### Have Fun W This Shi
 
-> Just vibes. Don't ask questions.
-
 🔗 https://naruto-powerr.vercel.app
 
 ---
 
 ### PawPaw
-
-> Lost & found pet community platform.
 
 🔗 https://teamproject-rosy.vercel.app
 
@@ -117,7 +112,7 @@ that deliver real business value.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img
