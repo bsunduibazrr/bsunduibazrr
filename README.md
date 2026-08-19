@@ -64,26 +64,6 @@
 
 ---
 
-## Featured Projects
-
-### Werun Manage System
-
-🔗 https://manage.werun.mn
-
----
-
-### Have Fun W This Shi
-
-🔗 https://naruto-powerr.vercel.app
-
----
-
-### PawPaw
-
-🔗 https://teamproject-rosy.vercel.app
-
----
-
 ## GitHub Analytics
 
 <p align="center">
