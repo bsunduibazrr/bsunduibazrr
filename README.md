@@ -6,16 +6,19 @@
 
 ---
 
-## About Me
 
-- 18yo boy who passionate about coding
-- Freshman at MUST
-- not concerned about AI replacing my role
-- MVP • GENZ • BEAST
-- code, basketball n 76ers 
-- professional bug creator
-- CEO of "trust me bro"
-- full-time coder, part-time human
+
+I'm Sunduibazrr
+Now        Freshman @ MUST
+Edu        IT, MUST-SICT
+Interests  Code, Basketball, 76ers
+Vibe       MVP • GENZ • BEAST
+Motto      CEO of "trust me bro"
+Other      Professional bug creator
+
+- Highlights
+* full-time coder, part-time human
+* Making bugs since 2008
 
 ---
 
