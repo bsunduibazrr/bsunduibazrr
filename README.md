@@ -1,9 +1,4 @@
-# Helloo buddy, I'm Sunduibazrr 
 
-### Junior Developer
-
-Passionate about transforming ideas into high-performance applications
-that deliver real business value.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bsunduibazrr&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
