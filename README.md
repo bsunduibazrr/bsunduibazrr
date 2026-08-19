@@ -8,79 +8,16 @@
 
 
 
-<div style="background-color: #16181d; padding: 24px; border-radius: 12px; font-family: monospace; color: #abb2bf; width: 100%; max-width: 650px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  <!-- Window Header -->
-  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; border-bottom: 1px solid #21252b; padding-bottom: 10px;">
-    <div style="display: flex; gap: 8px;">
-      <div style="width: 12px; height: 12px; background-color: #ff5f56; border-radius: 50%;"></div>
-      <div style="width: 12px; height: 12px; background-color: #ffbd2e; border-radius: 50%;"></div>
-      <div style="width: 12px; height: 12px; background-color: #27c93f; border-radius: 50%;"></div>
-    </div>
-    <div style="color: #5c6370; font-size: 13px;">nominjin@github: ~$ whoami</div>
-    <div style="width: 40px;"></div>
-  </div>
+## About Me
 
-  <!-- Terminal Content -->
-  <div style="font-size: 14px; line-height: 1.6;">
-    <div style="color: #61afef; font-weight: bold; margin-bottom: 12px;">
-      nominjin<span style="color: #abb2bf;">@</span><span style="color: #98c379;">github</span>
-    </div>
-    <div style="border-top: 1px solid #21252b; margin-bottom: 12px;"></div>
-
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 6px;">
-      <span style="color: #e5c07b;">Now</span>
-      <span style="color: #abb2bf;">Freshmam @ MUST</span>
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 6px;">
-      <span style="color: #e5c07b;">Edu</span>
-      <span style="color: #abb2bf;">IT, MUST-SICT</span>
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 6px;">
-      <span style="color: #e5c07b;">Interests</span>
-      <span style="color: #abb2bf;">Code, Basketball, 76ers</span>
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 6px;">
-      <span style="color: #e5c07b;">Vibe</span>
-      <span style="color: #abb2bf;">MVP • GENZ • BEAST</span>
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 16px;">
-      <span style="color: #e5c07b;">Motto</span>
-      <span style="color: #abb2bf;">CEO of "trust me bro"</span>
-    </div>
-
-    <!-- Stack Section -->
-    <div style="color: #61afef; margin-bottom: 8px; border-bottom: 1px dashed #21252b; padding-bottom: 4px;">
-      – Stack
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 6px;">
-      <span style="color: #e5c07b;">Frontend</span>
-      <span style="color: #abb2bf;">React, Next.js, TS, JS</span>
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 6px;">
-      <span style="color: #e5c07b;">Backend</span>
-      <span style="color: #abb2bf;">Node, Python, REST APIs</span>
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 6px;">
-      <span style="color: #e5c07b;">Other</span>
-      <span style="color: #abb2bf;">Professional bug creator</span>
-    </div>
-    <div style="display: grid; grid-template-columns: 110px 1fr; gap: 10px; margin-bottom: 16px;">
-      <span style="color: #e5c07b;">AI</span>
-      <span style="color: #abb2bf;">Unfazed by AI taking over</span>
-    </div>
-
-    <!-- Highlights Section -->
-    <div style="color: #61afef; margin-bottom: 8px; border-bottom: 1px dashed #21252b; padding-bottom: 4px;">
-      – Highlights
-    </div>
-    <div style="color: #98c379; margin-bottom: 4px;">
-      • Turning curiosity into code since 2026
-    </div>
-    <div style="color: #98c379;">
-      • Full-time coder, part-time human
-    </div>
-  </div>
-</div>
+- 18yo boy who passionate about coding
+- Freshman at MUST
+- not concerned about AI replacing my role
+- MVP • GENZ • BEAST
+- code, basketball n 76ers 
+- professional bug creator
+- CEO of "trust me bro"
+- full-time coder, part-time human    
 
 ---
 
@@ -156,42 +93,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bsunduibazrr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsunduibazrr&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bsunduibazrr&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bsunduibazrr/bsunduibazrr/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 ---
 
