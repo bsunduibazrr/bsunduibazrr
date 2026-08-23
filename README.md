@@ -12,7 +12,6 @@
 
 - 18yo boy who passionate about coding
 - Freshman at MUST
-- not concerned about AI replacing my role
 - MVP • GENZ • BEAST
 - code, basketball n 76ers 
 - professional bug creator
