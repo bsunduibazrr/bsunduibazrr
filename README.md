@@ -75,8 +75,7 @@
 
 ---
 
-## Find Me Online
-
+## Socials
 <p align="left">
 
 <a href="https://github.com/bsunduibazrr">
