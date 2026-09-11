@@ -16,7 +16,8 @@
 - code, basketball n 76ers 
 - professional bug creator
 - CEO of "trust me bro"
-- full-time coder, part-time human    
+- full-time coder, part-time human
+- my thoughts rn- 2027-2028 nba champs:76ers
 
 ---
 
