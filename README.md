@@ -20,7 +20,7 @@
 
 ---
 
-## Tech Stacks
+## Tech Stacks I Use
 
 ### Frontend
 
