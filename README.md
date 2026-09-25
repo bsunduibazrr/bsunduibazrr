@@ -24,9 +24,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bsunduibazrr&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bsunduibazrr&theme=dark&hide_border=true" />
-</p>
+
 ---
 
 ## Tech Stacks
