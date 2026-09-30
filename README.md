@@ -20,12 +20,6 @@
 
 ---
 
-## Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bsunduibazrr&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
----
 
 ## Tech Stacks
 
